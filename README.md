@@ -1,4 +1,4 @@
 # first-demo
 this is my first git repository
 <br>
-Author - Mitull Goel
+Author - Mitull Goel(jiit)
